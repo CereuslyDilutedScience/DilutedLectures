@@ -1,2 +1,2 @@
 # DilutedLectures
-Paste class notes into the application, outputs flashcards specific to your lecture notes. 
+Paste class notes into the application, output flashcards specific to your lecture notes. 
